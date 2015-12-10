@@ -1,1 +1,2 @@
-mygit1测试
+﻿mygit1测试
+Creating a new branch is quick.
